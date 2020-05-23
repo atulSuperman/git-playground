@@ -5,3 +5,6 @@ This is the new line we have added.
 
 This is the line added from the bug-fix
 
+This is new line added on the feature branch.
+
+
